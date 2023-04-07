@@ -110,11 +110,11 @@
 <br>
 
 <details>
-    <summary>Tucker's GitHub Stats</summary>
+    <summary>Daniel's GitHub Stats</summary>
 
 <br>
 
-![Vargasdm's GitHub stats](https://github-readme-stats.vercel.app/api?username=grinninbarrett&show_icons=true&theme=nightowl)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=vargasdm&show_icons=true&theme=nightowl)
 
 <br>
 
